@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2,12,20,24&text=Ailton%20Lima%20Junior&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+</p>
+
 <div align="center">
 
 # 👋 Olá, eu sou Ailton Lima Junior
