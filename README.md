@@ -45,7 +45,7 @@ Atualmente estou focado em desenvolvimento **Back-end com Python e Django**.
 Sistema CRUD desenvolvido com Django para gerenciamento de livros.
 
 🔗 Repositório  
-https://github.com/limmateech-sketch/livraria-afi
+https://github.com/limma-roinuj/livraria-afi
 
 ### 📌 Pulse Escolar
 
@@ -62,7 +62,7 @@ Sistema web desenvolvido em Python e Flask para gestão de faltas docentes, com 
 - Interface organizada para uso administrativo
 
 🔗 Repositório:  
-https://github.com/limmateech-sketch/pulse-escolar
+https://github.com/limma-roinuj/pulse-escolar
 
 ---
 
