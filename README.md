@@ -2,10 +2,6 @@
 
 # 👋 Olá, eu sou Ailton Lima Junior
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Technologies" />
-</p>
-
 ### web designer | Full Stack Developer
 
 Building scalable applications with Java, Spring Boot, React and Cloud.
@@ -134,5 +130,9 @@ Construir soluções escaláveis utilizando tecnologias modernas, aplicando boas
 📍 Salvador - BA  
 
 ---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=limma-roinuj&style=for-the-badge&color=blue" />
+</p>
 
 ⭐ Obrigado por visitar meu perfil!
