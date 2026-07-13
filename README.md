@@ -90,13 +90,23 @@ https://github.com/limma-roinuj/pulse-escolar
 
 ---
 
-# 📊 Estatísticas
-
 ## 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/limma-roinuj/limma-roinuj/output/github-contribution-grid-snake-dark.svg" />
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=limma-roinuj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limma-roinuj&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ---
 
 # 📈 Atualmente estudando
