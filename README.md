@@ -28,7 +28,7 @@ Sou desenvolvedor Full Stack apaixonado por construir aplicações modernas, esc
 
 Tenho experiência no desenvolvimento de sistemas web utilizando Java, Spring Boot, React, Next.js, bancos relacionais e Docker.
 
-Sempre busco escrever código limpo, aprender novas tecnologias e desenvolver soluções que gerem impacto real.
+Sempre busco aprender novas tecnologias e desenvolver soluções que gerem impacto real.
 
 ---
 
