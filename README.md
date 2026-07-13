@@ -47,7 +47,7 @@ Sempre busco aprender novas tecnologias e desenvolver soluções que gerem impac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-plain.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" />
 
 
@@ -67,6 +67,7 @@ Sempre busco aprender novas tecnologias e desenvolver soluções que gerem impac
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
 </p>
 
 ### Banco de Dados
