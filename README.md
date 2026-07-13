@@ -99,7 +99,6 @@ https://github.com/limma-roinuj/pulse-escolar
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limma-roinuj&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 # 📈 Atualmente estudando
