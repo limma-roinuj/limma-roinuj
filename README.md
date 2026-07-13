@@ -1,5 +1,8 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ailton%20Lima%20Junior&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20•%20Spring%20Boot%20•%20React%20•%20Python&descAlignY=58&descSize=20&color=F97316"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=30,31,32&text=Ailton%20Lima%20Junior&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=22"
+  />
 </p>
 
 <div align="center">
