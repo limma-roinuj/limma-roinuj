@@ -1,16 +1,34 @@
-<h1 align="center">Olá 👋, eu sou Ailton Lima Junior</h1>
+<div align="center">
 
-<h3 align="center">Desenvolvedor Back-end Python | Técnico em Informática | Designer Gráfico</h3>
+# 👋 Olá, eu sou Ailton Lima Junior
+
+### Software Engineer | Full Stack Java Developer
+
+Building scalable applications with Java, Spring Boot, React and Cloud.
+
+<p>
+  <a href="https://limma-roinuj.github.io">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge" />
+  </a>
+  <a href="mailto:limmajjunior@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ailton-lima-junior-4109033a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 🚀 Sobre mim
 
-Sou profissional de tecnologia com experiência em suporte técnico, manutenção de computadores e desenvolvimento de sistemas utilizando Python.
+Sou desenvolvedor Full Stack apaixonado por construir aplicações modernas, escaláveis e de alta qualidade.
 
-Tenho formação técnica em informática e graduação em Design Gráfico, o que me permite unir conhecimento técnico com visão de design e usabilidade.
+Tenho experiência no desenvolvimento de sistemas web utilizando Java, Spring Boot, React, Next.js, bancos relacionais e Docker.
 
-Atualmente estou focado em desenvolvimento **Back-end com Python e Django**.
+Sempre busco escrever código limpo, aprender novas tecnologias e desenvolver soluções que gerem impacto real.
 
 ---
 
@@ -35,6 +53,33 @@ Atualmente estou focado em desenvolvimento **Back-end com Python e Django**.
 
 
 </div>
+
+---
+# 💻 Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode" />
+</p>
 
 ---
 
@@ -66,23 +111,40 @@ https://github.com/limma-roinuj/pulse-escolar
 
 ---
 
-## 📊 Estatísticas GitHub
+# 📊 Estatísticas
 
 <div align="center">
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=limma-roinuj&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Estatísticas GitHub de Ailton Lima Junior"
-  />
 
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=limma-roinuj&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Linguagens mais utilizadas"
-  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=limma-roinuj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limma-roinuj&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
+
+# 📈 Atualmente estudando
+
+- Arquitetura de Software
+- Clean Architecture
+- Microsserviços
+- Docker
+- AWS
+- Inteligência Artificial
+
+---
+
+# 🎯 Objetivo
+
+Construir soluções escaláveis utilizando tecnologias modernas, aplicando boas práticas de engenharia de software e aprendizado contínuo.
+
+---
+
+<div align="center">
+
+### 💡 *Turning ideas into scalable software.*
+
+</div>
 
 ## 📫 Contato
 
