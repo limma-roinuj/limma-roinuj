@@ -7,10 +7,6 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou Ailton Lima Junior
-
-### web designer | Full Stack Developer
-
 Building scalable applications with Java, Spring Boot, React and Cloud.
 
 <p>
