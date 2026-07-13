@@ -97,13 +97,13 @@ https://github.com/limma-roinuj/pulse-escolar
 </p>
 ---
 
-## 📈 Atividade no GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=limma-roinuj&theme=tokyo-night&hide_border=true"
-    alt="Gráfico de atividade no GitHub"
+   <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=limma-roinuj&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
   />
 </p>
 
