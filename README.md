@@ -20,7 +20,7 @@ Building scalable applications with Java, Spring Boot, React and Cloud.
 
 </div>
 
----
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
 # 🚀 Sobre mim
 
@@ -30,7 +30,7 @@ Tenho experiência no desenvolvimento de sistemas web utilizando Java, Spring Bo
 
 Sempre busco aprender novas tecnologias e desenvolver soluções que gerem impacto real.
 
----
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
 # 💻 Stack
 
@@ -88,14 +88,14 @@ Sistema web desenvolvido em Python e Flask para gestão de faltas docentes, com 
 🔗 Repositório:  
 https://github.com/limma-roinuj/pulse-escolar
 
----
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
 ## 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/limma-roinuj/limma-roinuj/output/github-contribution-grid-snake-dark.svg" />
 </p>
----
+
 
 ## 📊 GitHub Stats
 
@@ -107,7 +107,7 @@ https://github.com/limma-roinuj/pulse-escolar
   />
 </p>
 
----
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
 # 📈 Atualmente estudando
 
@@ -118,13 +118,13 @@ https://github.com/limma-roinuj/pulse-escolar
 - AWS
 - Inteligência Artificial
 
----
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
 # 🎯 Objetivo
 
 Construir soluções escaláveis utilizando tecnologias modernas, aplicando boas práticas de engenharia de software e aprendizado contínuo.
 
----
+
 
 <div align="center">
 
@@ -137,7 +137,6 @@ Construir soluções escaláveis utilizando tecnologias modernas, aplicando boas
 📧 Email: limmajjunior@gmail.com  
 📍 Salvador - BA  
 
----
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
 ⭐ Obrigado por visitar meu perfil!
 
