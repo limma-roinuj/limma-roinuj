@@ -24,7 +24,8 @@ Building scalable applications with Java, Spring Boot, React and Cloud.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
-# 🚀 Sobre mim
+ 🚀 Sobre mim
+
 
 Sou desenvolvedor Full Stack apaixonado por construir aplicações modernas, escaláveis e de alta qualidade.
 
@@ -61,34 +62,45 @@ Sempre busco aprender novas tecnologias e desenvolver soluções que gerem impac
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
-# 🚀 Projeto em Destaque
+ 🚀 Projetos em Destaque
 
-## Sistema Livraria AFI
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Sistema CRUD desenvolvido com Django para gerenciamento de livros.
+### 📚 Livraria AFI
 
-🔗 Repositório  
-https://github.com/limma-roinuj/livraria-afi
+Sistema CRUD para gerenciamento de livros desenvolvido com Django.
 
-### 📌 Pulse Escolar
+**Tecnologias:** Python • Django • HTML • CSS
 
-Sistema web desenvolvido em Python e Flask para gestão de faltas docentes, com dashboard, cadastros, justificativas, filtros por período e geração de relatórios em PDF.
+<a href="https://github.com/limma-roinuj/livraria-afi">
+  <img src="https://img.shields.io/badge/Ver%20repositório-F97316?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-**Principais recursos:**
+</td>
 
-- Dashboard com indicadores gerais
-- Cadastro de professores, turmas e horários
-- Registro e controle de faltas
-- Justificativas com possibilidade de anexos
-- Filtros por período, professor e turma
-- Geração de relatórios em PDF
-- Interface organizada para uso administrativo
+<td width="50%" valign="top">
 
-🔗 Repositório:  
-https://github.com/limma-roinuj/pulse-escolar
+### 🎓 Pulse Escolar
+
+Sistema web para controle de faltas docentes, justificativas e relatórios.
+
+**Tecnologias:** Python • Flask • Bootstrap
+
+<a href="https://github.com/limma-roinuj/pulse-escolar">
+  <img src="https://img.shields.io/badge/Ver%20repositório-F97316?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
-## 📊 GitHub Stats
+ 📊 GitHub Stats
+
 
 <p align="center">
    <img
@@ -100,7 +112,8 @@ https://github.com/limma-roinuj/pulse-escolar
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
-# 📈 Atualmente estudando
+📈 Atualmente estudando
+
 
 - Arquitetura de Software
 - Clean Architecture
@@ -110,7 +123,7 @@ https://github.com/limma-roinuj/pulse-escolar
 - Inteligência Artificial
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
-# 🎯 Objetivo
+🎯 Objetivo
 
 Construir soluções escaláveis utilizando tecnologias modernas, aplicando boas práticas de engenharia de software e aprendizado contínuo.
 
@@ -118,16 +131,18 @@ Construir soluções escaláveis utilizando tecnologias modernas, aplicando boas
 
 <div align="center">
 
+
 ### 💡 *Turning ideas into scalable software.*
 
 </div>
 
-## 📫 Contato
+ 📫 Contato
 
 📧 Email: limmajjunior@gmail.com  
-📍 Salvador - BA  
+📍 Brasil - BA  
 
-## 🐍 Contribuições
+
+# 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/limma-roinuj/limma-roinuj/output/github-contribution-grid-snake-dark.svg" />
