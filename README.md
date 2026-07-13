@@ -20,8 +20,7 @@ Building scalable applications with Java, Spring Boot, React and Cloud.
 
 </div>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
 # 🚀 Sobre mim
 
 Sou desenvolvedor Full Stack apaixonado por construir aplicações modernas, escaláveis e de alta qualidade.
@@ -30,9 +29,7 @@ Tenho experiência no desenvolvimento de sistemas web utilizando Java, Spring Bo
 
 Sempre busco aprender novas tecnologias e desenvolver soluções que gerem impacto real.
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
-# 💻 Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
 
 ### Backend
 
@@ -60,8 +57,7 @@ Sempre busco aprender novas tecnologias e desenvolver soluções que gerem impac
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode" />
 </p>
 
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
 # 🚀 Projeto em Destaque
 
 ## Sistema Livraria AFI
@@ -88,15 +84,7 @@ Sistema web desenvolvido em Python e Flask para gestão de faltas docentes, com 
 🔗 Repositório:  
 https://github.com/limma-roinuj/pulse-escolar
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/limma-roinuj/limma-roinuj/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -118,8 +106,7 @@ https://github.com/limma-roinuj/pulse-escolar
 - AWS
 - Inteligência Artificial
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
 # 🎯 Objetivo
 
 Construir soluções escaláveis utilizando tecnologias modernas, aplicando boas práticas de engenharia de software e aprendizado contínuo.
@@ -137,7 +124,14 @@ Construir soluções escaláveis utilizando tecnologias modernas, aplicando boas
 📧 Email: limmajjunior@gmail.com  
 📍 Salvador - BA  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/limma-roinuj/limma-roinuj/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
 ⭐ Obrigado por visitar meu perfil!
 
 
