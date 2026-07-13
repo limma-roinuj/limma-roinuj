@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Ailton Lima Junior
 
-### Software Engineer | Full Stack Java Developer
+### web designer | Full Stack Developer
 
 Building scalable applications with Java, Spring Boot, React and Cloud.
 
