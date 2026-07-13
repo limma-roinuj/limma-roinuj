@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=30,31,32&text=Ailton%20Lima%20Junior&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=22"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=F97316&text=Ailton%20Lima%20Junior&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=22"
   />
 </p>
 
