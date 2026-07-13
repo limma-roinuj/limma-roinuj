@@ -84,7 +84,7 @@ Sistema web desenvolvido em Python e Flask para gestão de faltas docentes, com 
 🔗 Repositório:  
 https://github.com/limma-roinuj/pulse-escolar
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -96,7 +96,7 @@ https://github.com/limma-roinuj/pulse-escolar
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7C3AED&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:FB923C,100:F59E0B&height=4"/>
 # 📈 Atualmente estudando
 
 - Arquitetura de Software
