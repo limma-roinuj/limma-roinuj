@@ -100,11 +100,17 @@ https://github.com/limma-roinuj/pulse-escolar
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=limma-roinuj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Estatísticas GitHub de Ailton Lima Junior"
+  />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=limma-roinuj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limma-roinuj&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=limma-roinuj&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 ---
