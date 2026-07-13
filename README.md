@@ -69,11 +69,17 @@ https://github.com/limmateech-sketch/pulse-escolar
 ## 📊 Estatísticas GitHub
 
 <div align="center">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=limma-roinuj&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+    alt="Estatísticas GitHub de Ailton Lima Junior"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=limmateech-sketch&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limmateech-sketch&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=limma-roinuj&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
 ---
