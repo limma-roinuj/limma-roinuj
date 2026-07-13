@@ -92,13 +92,11 @@ https://github.com/limma-roinuj/pulse-escolar
 
 # 📊 Estatísticas
 
-<div align="center">
+## 🐍 Contribuições
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=limma-roinuj&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limma-roinuj&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/limma-roinuj/limma-roinuj/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 # 📈 Atualmente estudando
@@ -131,8 +129,15 @@ Construir soluções escaláveis utilizando tecnologias modernas, aplicando boas
 
 ---
 
+⭐ Obrigado por visitar meu perfil!
+
+
+
+
+
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=limma-roinuj&style=for-the-badge&color=blue" />
 </p>
 
-⭐ Obrigado por visitar meu perfil!
+
